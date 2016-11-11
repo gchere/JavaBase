@@ -70,6 +70,7 @@ public class ClassDemo {
 
 		out.println("唤醒printPersonSelf：");
 		method.invoke(obj);
+		
 
 	}
 
